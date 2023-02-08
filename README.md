@@ -1,24 +1,16 @@
 ### Ola! Eu sou o Samuel Lima 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelLima60&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelLima60&show_icons=true&theme=dark)
 
 
-Tecnologias: 
+Tecnologias que eu uso: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLima60)](https://github.com/anuraghazra/github-readme-stats)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<!--
-**SamuelLima60/samuellima60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![snake gif](https://github.com/samuellima60/samuellima60/blob/output/github-contribution-grid-snake.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
