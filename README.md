@@ -1,4 +1,12 @@
-### Hi there 👋
+### Ola! Eu sou o Samuel Lima 👋
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelLima60&show_icons=true&theme=radical)
+
+
+Tecnologias: 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLima60)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SamuelLima60/samuellima60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
