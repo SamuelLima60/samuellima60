@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Samuel Lima 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelLima60&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SamuelLima60&show_icons=true&theme=dark)
 
 
 Tecnologias que eu uso: 
